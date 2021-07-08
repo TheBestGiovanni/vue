@@ -13,3 +13,56 @@
 
   </div>
 </template>
+
+<style>
+
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+body{
+  font-family: 'Anonymous Pro', monospace; 
+  background-image: url("https://appleinformed.files.wordpress.com/2021/06/macosmontereywallpaper.jpg");
+}
+
+.container {
+  width: 600px;
+  margin: auto;
+}
+
+.page {
+  display: grid;
+  grid-template-columns: 6rem auto;
+  grid-template-rows: 2rem auto;
+}
+
+.raulo {
+  margin-left: 43%;
+  /*text-align: center;*/
+}
+
+.space {
+  height: 300px;
+}
+
+.cool {
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align: justify;
+}
+
+.fackerbygionny {
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 14px;
+  box-shadow:  50px 50px 100px #c8c8c8,
+               -50px -50px 100px #ffffff;
+  position: relative;
+  background: rgba( 255, 255, 255, 0.15 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 20.0px );
+  -webkit-backdrop-filter: blur( 20.0px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  height: 140px;
+}
+
+</style>
