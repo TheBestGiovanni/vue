@@ -25,6 +25,8 @@ export default {
   }
 }
 </script>
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
 .hello {
   font-family: 'Anonymous Pro', monospace; 
 }
