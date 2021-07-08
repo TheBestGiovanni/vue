@@ -30,7 +30,7 @@ export default {
 <style scoped>
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
-body{
+.hello {
   font-family: 'Anonymous Pro', monospace; 
   background-image: url("https://appleinformed.files.wordpress.com/2021/06/macosmontereywallpaper.jpg");
 }
