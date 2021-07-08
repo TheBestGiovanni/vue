@@ -1,5 +1,4 @@
 <template>
-    <title>Hi<title>
     <HelloWorld msg=""/>
 </template>
 
