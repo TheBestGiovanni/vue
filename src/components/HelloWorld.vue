@@ -25,6 +25,7 @@ export default {
   }
 }
 </script>
+<style>
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 .hello {
