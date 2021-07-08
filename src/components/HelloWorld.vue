@@ -25,6 +25,9 @@ export default {
   }
 }
 </script>
+.hello {
+  font-family: 'Anonymous Pro', monospace; 
+}
 
 .container {
   width: 600px;
